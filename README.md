@@ -16,3 +16,5 @@ Celem projektu jest stworzenie gry MasterMind, w której użytkownik ma za zadan
 
 3. **Pomoc**:
     - Wpisanie "?" lub "help" wyświetla zasady gry i podpowiedzi.
+
+### Project carried out at a technical school
