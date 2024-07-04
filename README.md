@@ -16,7 +16,3 @@ Celem projektu jest stworzenie gry MasterMind, w której użytkownik ma za zadan
 
 3. **Pomoc**:
     - Wpisanie "?" lub "help" wyświetla zasady gry i podpowiedzi.
-
-## Pliki Implementacji
-
-- **MM.py**: Główny plik gry zawierający implementację logiki gry.
